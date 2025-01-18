@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning C#/Python/PHP
-- - 📫 How to reach me:
+- 📫 How to reach me:
     - michalOzdz@icloud.com
     - IG: 042_michal
 - 😄 Pronouns: He/His
-- - ⚡ Fun fact: !I love Hawaiian pizza
+- ⚡ Fun fact: !I love Hawaiian pizza
 <!--
 **osprivPL/osprivPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
