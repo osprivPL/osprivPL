@@ -1,19 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Michał 👋
+
+Welcome to my GitHub profile!
+
+## About Me
 
 - 🌱 I’m currently learning C#/Python/PHP
-- 📫 How to reach me:
-    - michalOzdz@icloud.com
-    - IG: 042_michal
-- 😄 Pronouns: He/His
+- 📫 How to reach me: michalOzdz@icloud.com
 - ⚡ Fun fact: !I love Hawaiian pizza
-<!--
-**osprivPL/osprivPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My Projects
 
-- 🔭 I’m currently working on ...
+Here are some of the projects I've been working on:
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+## Skills
+
+- Programming Languages: C++
+
+Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech.
